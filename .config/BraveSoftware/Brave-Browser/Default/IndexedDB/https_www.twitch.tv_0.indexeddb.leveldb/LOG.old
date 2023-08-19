@@ -1,0 +1,15 @@
+2023/06/18-21:16:26.924 41ea Reusing MANIFEST /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/18-21:16:26.924 41ea Recovering log #4
+2023/06/18-21:16:26.924 41ea Reusing old log /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000004.log 
+2023/06/18-21:16:58.947 41eb Level-0 table #8: started
+2023/06/18-21:16:58.950 41eb Level-0 table #8: 209 bytes OK
+2023/06/18-21:16:58.955 41eb Delete type=0 #4
+2023/06/18-21:16:58.955 41eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/18-21:16:58.955 41eb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 47 : 1
+2023/06/18-21:16:58.955 41eb Compacting 1@1 + 1@2 files
+2023/06/18-21:16:58.958 41eb Generated table #9@1: 19 keys, 516 bytes
+2023/06/18-21:16:58.958 41eb Compacted 1@1 + 1@2 files => 516 bytes
+2023/06/18-21:16:58.962 41eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/18-21:16:58.962 41eb Delete type=2 #5
+2023/06/18-21:16:58.962 41eb Delete type=2 #8
+2023/06/18-21:16:58.963 41eb Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 47 : 1 .. (end); will stop at (end)

@@ -1,0 +1,58 @@
+---
+const PROJECTS = [
+    {
+        title: 'Project 1',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        image: 'https://picsum.photos/200/300',
+        url: 'https://www.google.com'
+    },
+    {
+        title: 'Project 2',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        image: 'https://picsum.photos/200/300',
+        url: 'https://www.google.com'
+    },
+    {
+        title: 'Project 3',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        image: 'https://picsum.photos/200/300',
+        url: 'https://www.google.com'
+    },
+    {
+        title: 'Project 4',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        image: 'https://picsum.photos/200/300',
+        url: 'https://www.google.com'
+    },
+    {
+        title: 'Project 5',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        image: 'https://picsum.photos/200/300',
+        url: 'https://www.google.com'
+    },
+    {
+        title: 'Project 6',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        image: 'https://picsum.photos/200/300',
+        url: 'https://www.google.com'
+    }
+]
+---
+<section class=" h-screen bg-center">
+    <h2 class="text-center text-xl text-primary">Projects</h2>
+    <div class="grid">
+        {
+            PROJECTS.map(projects => {
+                return (
+                    <article>
+                        <h3>{projects.title}</h3>
+                        <p>{projects.description}</p>
+                        <a href={projects.url}>
+                          <img src={projects.image} alt={projects.title} />
+                        </a>
+                    </article>
+                )
+            })
+        }
+    </div>
+</section>

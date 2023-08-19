@@ -1,0 +1,28 @@
+---
+import About from "../components/section/about.astro";
+import Contact from "../components/section/contact.astro";
+import Experience from "../components/section/experience.astro";
+import Footer from "../components/section/footer.astro";
+import Home from "../components/section/home.astro";
+import Project from "../components/section/project.astro";
+
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link href="/styles/index.css" rel="stylesheet" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Astro</title>
+	</head>
+	<body class="container mx-auto bg-[#222831]">
+		<Home />
+		<Project />
+		<About />
+		<Contact />
+		<Footer />
+	</body>	
+</html>
+

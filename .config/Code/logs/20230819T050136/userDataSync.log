@@ -1,0 +1,10 @@
+2023-08-19 05:01:38.563 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-08-19 05:01:38.563 [info] Auto Sync is enabled.
+2023-08-19 05:01:38.563 [info] Auto Sync: Suspended until auth token is available.
+2023-08-19 05:01:38.862 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/extensions
+2023-08-19 05:01:38.924 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/globalState
+2023-08-19 05:01:39.019 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/keybindings
+2023-08-19 05:01:39.086 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/profiles
+2023-08-19 05:01:39.178 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/settings
+2023-08-19 05:01:39.182 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/snippets
+2023-08-19 05:01:39.185 [info] Deleting non existing profile from backup /home/developercode/.config/Code/User/sync/tasks

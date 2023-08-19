@@ -1,0 +1,41 @@
+2023-07-29 16:18:15.106 [info] Deleted from disk esbenp.prettier-vscode /home/developercode/.vscode/extensions/esbenp.prettier-vscode-9.16.0
+2023-07-29 16:18:15.107 [info] Deleted from disk usernamehw.errorlens /home/developercode/.vscode/extensions/usernamehw.errorlens-3.11.1
+2023-07-29 16:18:15.277 [info] Deleted from disk zhuangtongfa.material-theme /home/developercode/.vscode/extensions/zhuangtongfa.material-theme-3.15.17
+2023-07-29 16:18:15.411 [info] Deleted from disk wallabyjs.console-ninja /home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.170
+2023-07-29 16:18:15.474 [info] Deleted from disk github.copilot /home/developercode/.vscode/extensions/github.copilot-1.93.189
+2023-07-29 16:18:15.482 [info] Deleted from disk astro-build.astro-vscode /home/developercode/.vscode/extensions/astro-build.astro-vscode-2.0.18-linux-x64
+2023-07-29 16:18:15.488 [info] Deleted from disk ms-python.vscode-pylance /home/developercode/.vscode/extensions/ms-python.vscode-pylance-2023.6.40
+2023-07-29 16:18:15.493 [info] Deleted from disk ms-python.python /home/developercode/.vscode/extensions/ms-python.python-2023.10.1
+2023-07-29 16:18:19.219 [info] Getting Manifest... astro-build.astro-vscode
+2023-07-29 16:18:19.222 [info] Getting Manifest... github.copilot
+2023-07-29 16:18:19.226 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-29 16:18:19.230 [info] Getting Manifest... wallabyjs.console-ninja
+2023-07-29 16:18:19.318 [info] Installing extension: ms-python.vscode-pylance
+2023-07-29 16:18:19.379 [info] Installing extension: astro-build.astro-vscode
+2023-07-29 16:18:19.379 [info] Installing extension: github.copilot
+2023-07-29 16:18:19.468 [info] Installing extension: wallabyjs.console-ninja
+2023-07-29 16:18:21.087 [info] Getting Manifest... ms-python.python
+2023-07-29 16:18:24.775 [warning] Extension signature verification failed with error 'UnknownError': astro-build.astro-vscode
+2023-07-29 16:18:25.039 [info] Extracted extension to /home/developercode/.vscode/extensions/.a927ff9b-1cc3-4712-8a40-fb5b8cc2758b: astro-build.astro-vscode
+2023-07-29 16:18:25.045 [info] Renamed to /home/developercode/.vscode/extensions/astro-build.astro-vscode-2.1.4-linux-x64
+2023-07-29 16:18:25.047 [info] Extracting extension completed. astro-build.astro-vscode
+2023-07-29 16:18:25.057 [info] Extension installed successfully: astro-build.astro-vscode
+2023-07-29 16:18:25.060 [info] Marked extension as uninstalled astro-build.astro-vscode-2.1.1-linux-x64
+2023-07-29 16:18:28.304 [warning] Extension signature verification failed with error 'UnknownError': github.copilot
+2023-07-29 16:18:28.596 [info] Extracted extension to /home/developercode/.vscode/extensions/.105663c8-2a3e-44cd-9c63-7fd5b4de79e6: github.copilot
+2023-07-29 16:18:28.602 [info] Renamed to /home/developercode/.vscode/extensions/github.copilot-1.99.289
+2023-07-29 16:18:28.603 [info] Extracting extension completed. github.copilot
+2023-07-29 16:18:28.613 [info] Extension installed successfully: github.copilot
+2023-07-29 16:18:28.616 [info] Marked extension as uninstalled github.copilot-1.98.275
+2023-07-29 16:18:30.289 [warning] Extension signature verification failed with error 'UnknownError': wallabyjs.console-ninja
+2023-07-29 16:18:30.998 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-07-29 16:18:31.132 [info] Extracted extension to /home/developercode/.vscode/extensions/.c33e1f68-9a15-4fa7-bc70-0b620409dce5: wallabyjs.console-ninja
+2023-07-29 16:18:31.139 [info] Renamed to /home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.188
+2023-07-29 16:18:31.141 [info] Extracting extension completed. wallabyjs.console-ninja
+2023-07-29 16:18:31.155 [info] Extension installed successfully: wallabyjs.console-ninja
+2023-07-29 16:18:31.160 [info] Marked extension as uninstalled wallabyjs.console-ninja-0.0.187
+2023-07-29 16:18:37.601 [info] Extracted extension to /home/developercode/.vscode/extensions/.83dfa10f-2963-4bc0-b8f8-5d2ed5a67a12: ms-python.vscode-pylance
+2023-07-29 16:18:37.611 [info] Renamed to /home/developercode/.vscode/extensions/ms-python.vscode-pylance-2023.7.40
+2023-07-29 16:18:37.614 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-29 16:18:37.628 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-29 16:18:37.633 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.7.30

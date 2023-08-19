@@ -1,0 +1,13 @@
+2023-06-29 14:16:46.373 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-06-29 14:16:51.935 [error] [Extension Host] [ERROR] [default] [2023-06-29T14:16:51.909Z] GitHub Copilot could not connect to server. Extension activation failed: "Thank you for using GitHub Copilot. Your subscription has ended. You are currently logged in as joruizdev."
+2023-06-29 14:16:56.052 [info] [perf] Render performance baseline is 42ms
+2023-06-29 18:59:23.246 [error] Cannot read properties of undefined (reading 'filter'): TypeError: Cannot read properties of undefined (reading 'filter')
+    at Object.<anonymous> (/home/developercode/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:43:11904)
+    at Generator.next (<anonymous>)
+    at s (/home/developercode/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.11/dist/extension.js:1:1247)
+2023-06-29 19:27:26.238 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-06-29 19:27:29.537 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1853:13556
+2023-06-29 19:27:39.932 [warning] UNRESPONSIVE extension host: 'wix.vscode-import-cost' took 94.23944766684932% of 4719.504ms, saved PROFILE here: 'file:///tmp/exthost-dd3843.cpuprofile'

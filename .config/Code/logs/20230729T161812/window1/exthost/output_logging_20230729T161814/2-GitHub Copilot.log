@@ -1,0 +1,3 @@
+[INFO] [auth] [2023-07-29T16:18:20.978Z] Invalid copilot token: missing token: 403 
+[ERROR] [default] [2023-07-29T16:18:20.985Z] GitHub Copilot could not connect to server. Extension activation failed: "Thank you for using GitHub Copilot. Your subscription has ended. You are currently logged in as joruizdev."
+[ERROR] [auth] [2023-07-29T16:24:55.704Z] Error while sending notification: (Error) Canceled

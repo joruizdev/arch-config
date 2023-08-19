@@ -1,0 +1,6 @@
+2023/08/13-16:10:06.527 3ba Reusing MANIFEST /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-16:10:06.527 3ba Recovering log #18
+2023/08/13-16:10:06.553 3ba Reusing old log /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000018.log 
+2023/08/13-16:11:00.884 3bb Level-0 table #23: started
+2023/08/13-16:11:00.900 3bb Level-0 table #23: 2635126 bytes OK
+2023/08/13-16:11:00.906 3bb Delete type=0 #18

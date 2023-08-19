@@ -1,0 +1,74 @@
+
+---
+const EXPERIENCE = [
+  {
+    title: 'Jefe de sistemas',
+    subTitle: 'Implementación de sistema',
+    dateInit: '2022',
+    dateEnd: '2023',
+    description: 'Desarrollé un sistema de control de atenciones para el servicio de exámenes médicos para brevetes. El sistema realiza el registro de citas, reprogramaciones, control de ingresos, control del tiempo de atención de cada paciente y reportes diversos.',
+    technology: 'ReactJS, NodeJS, PostgresSQL, AWS Lightsail'
+  },
+  {
+    title: 'Jefe se sistemas',
+    subTitle: 'Mejora en el sistema ocupacional',
+    dateInit: '2021',
+    dateEnd: '2021',
+    description: 'Llevé la gestión de mejora del sistema ocupacional en cuanto a la gestión de exámenes médicos conjuntamente con el proveedor, se implementarón nuevos formatos y se mejoró el control de ingresos',
+    technology: 'Php, MySQL'
+  },
+  {
+    title: 'Jefe se sistemas',
+    subTitle: 'Mejora en el equipamiento de equipos',
+    dateInit: '2021',
+    dateEnd: '2021',
+    description: 'Llevé la gestión de mejora de los equipos tecnológicos de la empresa, se renovaron 40 computadoras y 60 celulares (dentro de las 07 sedes que posee la empresa), se mejoró la sala de reuniones con equipos multimedia',
+    technology: 'Php, MySQL'
+  },
+  {
+    title: 'Analista de sistemas',
+    subTitle: 'Implementación de infraestructura de red',
+    dateInit: '2021',
+    dateEnd: '2019',
+    description: 'Implementé la infraestructura de red de 03 sedes ubicadas en los departamentos de Arequipa, Cerro de Pasco, Marcona respectivamente',
+    technology: ''
+  }
+]
+---
+<section class="bg-center pb-24">
+  <h2 id="about" class="text-center text-4xl text-primary pb-5">About me</h2>
+
+  <p class="text-[#eee] px-5 pb-5">Desarrollador con enfoque por crear soluciones tecnológicas eficientes y efectivas. 
+    Mi experiencia en el desarrollo de software abarca desde aplicaciones web hasta sistemas de gestión empresarial, 
+    siempre buscando ofrecer una experiencia de usuario óptima y una funcionalidad de primer nivel.
+  </p>
+  <p class="text-[#eee] px-5">
+    Me encanta trabajar en equipo y aprender de nuevas tecnologías y tendencias en el mercado. Si estás buscando un desarrollador con un enfoque orientado a resultados, ¡no dudes en contactarme!
+  </p>
+
+  <h2 class="px-5 pt-10 pb-5 text-xl text-primary">Experiencia</h2>
+
+  {
+    EXPERIENCE.map(({title, dateInit, dateEnd, description, technology, subTitle}) => {
+        return (
+          <div class="px-5 py-5">
+            <div class="flex text-[#EEEEEE] gap-4">
+              <div class="border border-l-0.5 border-cyan-500 rounded-md">
+              </div>
+              <div>
+                <h3 class="text-2xl ">{title}</h3>
+                <div class="text-sm py-1 rounded-md flex items-center gap-2 w-28 text-primary">
+                  <span>{dateInit}</span>
+                  <span>-</span>
+                  <span>{dateEnd}</span>
+                </div>
+                <h4 class="pt-5 pb-3">{subTitle}</h4>
+                <p class=" pb-4">{description}</p>
+                <p>{technology}</p>
+              </div>
+            </div>
+          </div>
+        )
+    })
+}
+</section>

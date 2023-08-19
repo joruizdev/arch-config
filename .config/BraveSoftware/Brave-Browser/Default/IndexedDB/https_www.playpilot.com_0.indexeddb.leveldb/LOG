@@ -1,0 +1,6 @@
+2023/06/29-23:18:45.673 57d Creating DB /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.playpilot.com_0.indexeddb.leveldb since it was missing.
+2023/06/29-23:18:45.682 57d Reusing MANIFEST /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.playpilot.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/29-23:18:51.223 57e Level-0 table #5: started
+2023/06/29-23:18:51.227 57e Level-0 table #5: 3327 bytes OK
+2023/06/29-23:18:51.232 57e Delete type=0 #3
+2023/06/29-23:18:51.232 57e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

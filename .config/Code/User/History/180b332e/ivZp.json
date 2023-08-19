@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontFamily": "'CaskaydiaCove Nerd Font', 'Mononoki Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "symbols",
+    "settingsSync.ignoredExtensions": []
+}

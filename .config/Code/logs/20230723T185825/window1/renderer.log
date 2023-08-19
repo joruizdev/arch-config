@@ -1,0 +1,6 @@
+2023-07-23 18:58:26.084 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/developercode/Document/token_linux","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-23 18:58:26.804 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-07-23 18:58:30.507 [info] [perf] Render performance baseline is 175ms
+2023-07-23 18:58:30.898 [error] [Extension Host] [ERROR] [default] [2023-07-23T18:58:30.896Z] GitHub Copilot could not connect to server. Extension activation failed: "Thank you for using GitHub Copilot. Your subscription has ended. You are currently logged in as joruizdev."

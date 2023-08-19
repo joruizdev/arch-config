@@ -1,0 +1,5 @@
+2023/05/07-18:18:08.615 2187 Creating DB /home/developercode/.config/discord/Local Storage/leveldb since it was missing.
+2023/05/07-18:18:08.625 2187 Reusing MANIFEST /home/developercode/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/05/07-18:21:20.785 2185 Level-0 table #5: started
+2023/05/07-18:21:20.802 2185 Level-0 table #5: 1593254 bytes OK
+2023/05/07-18:21:20.807 2185 Delete type=0 #3

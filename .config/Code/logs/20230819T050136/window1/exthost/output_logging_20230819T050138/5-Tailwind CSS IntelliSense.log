@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/developercode","configPath":"/home/developercode/Document/project/developercode/tailwind.config.cjs","isUserConfigured":false,"documentSelector":[{"pattern":"/home/developercode/Document/project/developercode/tailwind.config.cjs","priority":0},{"pattern":"/home/developercode/Document/project/developercode/src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}","priority":1},{"pattern":"/home/developercode/Document/project/developercode/**","priority":3},{"pattern":"/home/developercode/**","priority":5}]}]
+[Global] Adding watch patterns: /home/developercode/Document/project/developercode/tailwind.config.cjs, /home/developercode/Document/project/developercode, /home/developercode/Document/project, /home/developercode/Document, /home/developercode
+[Document/project/developercode/tailwind.config.cjs] Initializing...
+[Document/project/developercode/tailwind.config.cjs] Loaded Tailwind CSS config file: /home/developercode/Document/project/developercode/tailwind.config.cjs
+[Document/project/developercode/tailwind.config.cjs] Loaded postcss v8.4.21: /home/developercode/Document/project/developercode/node_modules/postcss
+[Document/project/developercode/tailwind.config.cjs] Loaded tailwindcss v3.2.7: /home/developercode/Document/project/developercode/node_modules/tailwindcss
+[Document/project/developercode/tailwind.config.cjs] Building...

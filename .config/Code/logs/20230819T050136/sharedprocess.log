@@ -1,0 +1,83 @@
+2023-08-19 05:01:47.451 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2023-08-19 05:01:47.459 [info] Getting Manifest... esbenp.prettier-vscode
+2023-08-19 05:01:47.461 [info] Getting Manifest... github.copilot
+2023-08-19 05:01:47.464 [info] Getting Manifest... miguelsolorio.symbols
+2023-08-19 05:01:47.465 [info] Getting Manifest... ms-python.python
+2023-08-19 05:01:47.467 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-19 05:01:47.469 [info] Getting Manifest... ms-toolsai.jupyter
+2023-08-19 05:01:47.471 [info] Getting Manifest... pflannery.vscode-versionlens
+2023-08-19 05:01:47.474 [info] Getting Manifest... usernamehw.errorlens
+2023-08-19 05:01:47.475 [info] Getting Manifest... wallabyjs.console-ninja
+2023-08-19 05:01:47.511 [info] Installing extension: esbenp.prettier-vscode
+2023-08-19 05:01:47.544 [info] Installing extension: ms-python.python
+2023-08-19 05:01:47.555 [info] Installing extension: ms-python.vscode-pylance
+2023-08-19 05:01:47.574 [info] Installing extension: github.copilot
+2023-08-19 05:01:47.652 [info] Installing extension: bradlc.vscode-tailwindcss
+2023-08-19 05:01:47.676 [info] Installing extension: miguelsolorio.symbols
+2023-08-19 05:01:47.683 [info] Installing extension: ms-toolsai.jupyter
+2023-08-19 05:01:47.683 [info] Installing extension: pflannery.vscode-versionlens
+2023-08-19 05:01:47.684 [info] Installing extension: wallabyjs.console-ninja
+2023-08-19 05:01:47.684 [info] Installing extension: usernamehw.errorlens
+2023-08-19 05:01:49.773 [info] Getting Manifest... ms-python.python
+2023-08-19 05:01:50.963 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-08-19 05:01:58.070 [warning] Extension signature verification failed with error 'UnknownError': bradlc.vscode-tailwindcss
+2023-08-19 05:01:58.071 [warning] Extension signature verification failed with error 'UnknownError': miguelsolorio.symbols
+2023-08-19 05:01:58.071 [warning] Extension signature verification failed with error 'UnknownError': esbenp.prettier-vscode
+2023-08-19 05:01:58.294 [info] Extracted extension to file:///home/developercode/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13: bradlc.vscode-tailwindcss
+2023-08-19 05:01:58.302 [info] Renamed to /home/developercode/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.13
+2023-08-19 05:01:58.305 [info] Extracting extension completed. bradlc.vscode-tailwindcss
+2023-08-19 05:01:58.331 [info] Extension installed successfully: bradlc.vscode-tailwindcss
+2023-08-19 05:01:58.339 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.9.11
+2023-08-19 05:01:58.435 [info] Extracted extension to file:///home/developercode/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-08-19 05:01:58.441 [info] Renamed to /home/developercode/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-08-19 05:01:58.445 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-08-19 05:01:58.456 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-08-19 05:01:58.461 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.19.0
+2023-08-19 05:01:58.736 [info] Extracted extension to file:///home/developercode/.vscode/extensions/miguelsolorio.symbols-0.0.14: miguelsolorio.symbols
+2023-08-19 05:01:58.742 [info] Renamed to /home/developercode/.vscode/extensions/miguelsolorio.symbols-0.0.14
+2023-08-19 05:01:58.743 [info] Extracting extension completed. miguelsolorio.symbols
+2023-08-19 05:01:58.751 [info] Extension installed successfully: miguelsolorio.symbols
+2023-08-19 05:01:58.754 [info] Marked extension as uninstalled miguelsolorio.symbols-0.0.12
+2023-08-19 05:01:59.501 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-08-19 05:01:59.502 [warning] Extension signature verification failed with error 'UnknownError': github.copilot
+2023-08-19 05:01:59.504 [warning] Extension signature verification failed with error 'UnknownError': usernamehw.errorlens
+2023-08-19 05:01:59.594 [info] Extracted extension to file:///home/developercode/.vscode/extensions/usernamehw.errorlens-3.13.0: usernamehw.errorlens
+2023-08-19 05:01:59.604 [info] Renamed to /home/developercode/.vscode/extensions/usernamehw.errorlens-3.13.0
+2023-08-19 05:01:59.607 [info] Extracting extension completed. usernamehw.errorlens
+2023-08-19 05:01:59.621 [info] Extension installed successfully: usernamehw.errorlens
+2023-08-19 05:01:59.629 [info] Marked extension as uninstalled usernamehw.errorlens-3.12.0
+2023-08-19 05:02:00.025 [info] Extracted extension to file:///home/developercode/.vscode/extensions/github.copilot-1.104.341: github.copilot
+2023-08-19 05:02:00.045 [info] Renamed to /home/developercode/.vscode/extensions/github.copilot-1.104.341
+2023-08-19 05:02:00.057 [info] Extracting extension completed. github.copilot
+2023-08-19 05:02:00.068 [info] Extension installed successfully: github.copilot
+2023-08-19 05:02:00.074 [info] Marked extension as uninstalled github.copilot-1.99.289
+2023-08-19 05:02:01.611 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-08-19 05:02:01.769 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2023-08-19 05:02:02.083 [info] Extracted extension to file:///home/developercode/.vscode/extensions/ms-python.python-2023.14.0: ms-python.python
+2023-08-19 05:02:02.090 [info] Renamed to /home/developercode/.vscode/extensions/ms-python.python-2023.14.0
+2023-08-19 05:02:02.097 [info] Extracting extension completed. ms-python.python
+2023-08-19 05:02:02.111 [info] Extension installed successfully: ms-python.python
+2023-08-19 05:02:02.113 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-08-19 05:02:02.125 [info] Marked extension as uninstalled ms-python.python-2023.12.0
+2023-08-19 05:02:02.244 [warning] Extension signature verification failed with error 'UnknownError': pflannery.vscode-versionlens
+2023-08-19 05:02:02.414 [info] Extracted extension to file:///home/developercode/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64: ms-toolsai.jupyter
+2023-08-19 05:02:02.424 [info] Renamed to /home/developercode/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64
+2023-08-19 05:02:02.432 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-08-19 05:02:02.446 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-08-19 05:02:02.460 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.6.1101941928-linux-x64
+2023-08-19 05:02:03.303 [warning] Extension signature verification failed with error 'UnknownError': wallabyjs.console-ninja
+2023-08-19 05:02:03.755 [info] Extracted extension to file:///home/developercode/.vscode/extensions/pflannery.vscode-versionlens-1.5.2: pflannery.vscode-versionlens
+2023-08-19 05:02:03.763 [info] Renamed to /home/developercode/.vscode/extensions/pflannery.vscode-versionlens-1.5.2
+2023-08-19 05:02:03.765 [info] Extracting extension completed. pflannery.vscode-versionlens
+2023-08-19 05:02:03.775 [info] Extension installed successfully: pflannery.vscode-versionlens
+2023-08-19 05:02:03.781 [info] Marked extension as uninstalled pflannery.vscode-versionlens-1.5.0
+2023-08-19 05:02:04.087 [info] Extracted extension to file:///home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.202: wallabyjs.console-ninja
+2023-08-19 05:02:04.094 [info] Renamed to /home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.202
+2023-08-19 05:02:04.096 [info] Extracting extension completed. wallabyjs.console-ninja
+2023-08-19 05:02:04.107 [info] Extension installed successfully: wallabyjs.console-ninja
+2023-08-19 05:02:04.117 [info] Marked extension as uninstalled wallabyjs.console-ninja-0.0.188
+2023-08-19 05:02:05.821 [info] Extracted extension to file:///home/developercode/.vscode/extensions/ms-python.vscode-pylance-2023.8.30: ms-python.vscode-pylance
+2023-08-19 05:02:05.826 [info] Renamed to /home/developercode/.vscode/extensions/ms-python.vscode-pylance-2023.8.30
+2023-08-19 05:02:05.829 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-19 05:02:05.838 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-19 05:02:05.843 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.7.40

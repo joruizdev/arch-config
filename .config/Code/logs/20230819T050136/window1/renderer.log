@@ -1,0 +1,24 @@
+2023-08-19 05:01:38.639 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
+product.json (WINS): inlineCompletionsAdditions
+2023-08-19 05:01:41.606 [info] [perf] Render performance baseline is 85ms
+2023-08-19 05:01:53.214 [error] Error: Error while encrypting the text provided to safeStorage.encryptString. Encryption is not available.
+    at R.encrypt (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:10994)
+    at Object.call (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:25:4844)
+    at P.s (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:5128)
+    at P.q (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:4644)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:4051)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1976)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2192)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:38681)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2123)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:38875)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2123)
+    at se (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:41018)
+    at IpcMainImpl.f (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:96331)
+    at IpcMainImpl.emit (node:events:513:28)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:2:80979)
+    at EventEmitter.emit (node:events:513:28)

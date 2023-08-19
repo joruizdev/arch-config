@@ -1,0 +1,30 @@
+---
+const EXPERIENCE = [
+  {
+    title: 'Jefe de sistemas',
+    dateInit: '2021',
+    dateEnd: 'En curso',
+    description: 'Desarrollé un sistema de control de atenciones para el servicio de exámenes médicos para brevetes. El sistema realiza el registro de citas, reprogramaciones, control de ingresos, control del tiempo de atención de cada paciente y reportes diversos.',
+    technology: 'ReactJS, NodeJS, PostgresSQL, AWS Lightsail'
+  }
+]
+---
+<section class="bg-center pb-24">
+  <h2 id="contact" class="text-center text-4xl text-primary pb-5">Experiencia</h2>
+  {
+    EXPERIENCE.map(({title, dateInit, dateEnd, description, technology}) => {
+        return (
+          <div class="flex">
+            <div>
+            </div>
+            <div>
+              <h3 class="text-[#EEEEEE] pb-2">{title}</h3>
+              <div class="text-[#EEEEEE] bg-cyan-500 pb-2 px-4 align-middle rounded-md">
+                <span>{dateInit} - {dateEnd}</span>
+              </div>
+            </div>
+          </div>
+        )
+    })
+}
+</section>

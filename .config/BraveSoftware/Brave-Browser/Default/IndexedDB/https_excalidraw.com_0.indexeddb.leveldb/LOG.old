@@ -1,0 +1,6 @@
+2023/06/18-20:15:22.592 41ea Creating DB /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_excalidraw.com_0.indexeddb.leveldb since it was missing.
+2023/06/18-20:15:22.601 41ea Reusing MANIFEST /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_excalidraw.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/18-23:00:48.467 41eb Level-0 table #5: started
+2023/06/18-23:00:48.470 41eb Level-0 table #5: 2363 bytes OK
+2023/06/18-23:00:48.475 41eb Delete type=0 #3
+2023/06/18-23:00:48.475 41eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

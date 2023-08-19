@@ -1,0 +1,28 @@
+2023-07-29 16:25:55.616 [info] Deleted from disk github.copilot /home/developercode/.vscode/extensions/github.copilot-1.98.275
+2023-07-29 16:25:55.663 [info] Deleted from disk astro-build.astro-vscode /home/developercode/.vscode/extensions/astro-build.astro-vscode-2.1.1-linux-x64
+2023-07-29 16:25:55.664 [info] Deleted from disk wallabyjs.console-ninja /home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.187
+2023-07-29 16:25:55.676 [info] Deleted from disk ms-python.vscode-pylance /home/developercode/.vscode/extensions/ms-python.vscode-pylance-2023.7.30
+2023-07-29 16:25:59.120 [info] Getting Manifest... ms-toolsai.jupyter
+2023-07-29 16:25:59.122 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-07-29 16:25:59.124 [info] Getting Manifest... ms-vscode.live-server
+2023-07-29 16:25:59.152 [info] Installing extension: ms-toolsai.jupyter
+2023-07-29 16:25:59.155 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-07-29 16:25:59.174 [info] Installing extension: ms-vscode.live-server
+2023-07-29 16:26:04.960 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.live-server
+2023-07-29 16:26:05.046 [info] Extracted extension to /home/developercode/.vscode/extensions/.61d6058c-65c5-4648-80a6-d6384cde3ea7: ms-vscode.live-server
+2023-07-29 16:26:05.059 [info] Renamed to /home/developercode/.vscode/extensions/ms-vscode.live-server-0.4.9
+2023-07-29 16:26:05.067 [info] Extracting extension completed. ms-vscode.live-server
+2023-07-29 16:26:05.098 [info] Extension installed successfully: ms-vscode.live-server
+2023-07-29 16:26:05.103 [info] Marked extension as uninstalled ms-vscode.live-server-0.4.8
+2023-07-29 16:26:06.687 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2023-07-29 16:26:06.725 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-renderers
+2023-07-29 16:26:07.173 [info] Extracted extension to /home/developercode/.vscode/extensions/.7dc7519f-d942-43da-b156-a0ce8834cfaf: ms-toolsai.jupyter-renderers
+2023-07-29 16:26:07.180 [info] Renamed to /home/developercode/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2023-07-29 16:26:07.182 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-07-29 16:26:07.196 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-07-29 16:26:07.202 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.15
+2023-07-29 16:26:07.210 [info] Extracted extension to /home/developercode/.vscode/extensions/.473cc7be-f19d-45cf-97fb-6cf8774d33cc: ms-toolsai.jupyter
+2023-07-29 16:26:07.216 [info] Renamed to /home/developercode/.vscode/extensions/ms-toolsai.jupyter-2023.6.1101941928-linux-x64
+2023-07-29 16:26:07.224 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-07-29 16:26:07.236 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-07-29 16:26:07.244 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.5.1101742258-linux-x64

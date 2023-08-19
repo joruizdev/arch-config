@@ -1,0 +1,21 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontFamily": "'Cascadia Code', 'Mononoki Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "symbols",
+    "settingsSync.ignoredExtensions": [],
+    "settingsSync.ignoredSettings": [],
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontVariations": false,
+    "editor.fontWeight": "normal",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "window.zoomLevel": 1
+}

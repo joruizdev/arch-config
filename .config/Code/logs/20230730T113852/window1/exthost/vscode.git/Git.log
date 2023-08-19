@@ -1,0 +1,25 @@
+2023-07-30 11:38:56.036 [info] Log level: Info
+2023-07-30 11:38:56.036 [info] Validating found git in: "git"
+2023-07-30 11:38:56.036 [info] Using git "2.41.0" from "git"
+2023-07-30 11:38:56.036 [info] > git rev-parse --show-toplevel [16ms]
+2023-07-30 11:38:56.036 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2023-07-30 11:38:56.036 [info] Open repository: /home/developercode/Document/project/developercode
+2023-07-30 11:38:56.036 [info] > git config --get commit.template [13ms]
+2023-07-30 11:38:56.036 [info] > git rev-parse --show-toplevel [26ms]
+2023-07-30 11:38:56.036 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-30 11:38:56.046 [info] > git rev-parse --show-toplevel [15ms]
+2023-07-30 11:38:56.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2023-07-30 11:38:56.064 [info] > git rev-parse --show-toplevel [12ms]
+2023-07-30 11:38:56.068 [info] > git status -z -uall [6ms]
+2023-07-30 11:38:56.101 [info] > git config --get commit.template [13ms]
+2023-07-30 11:38:56.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-07-30 11:38:56.118 [info] > git status -z -uall [7ms]
+2023-07-30 11:38:56.782 [info] > git check-ignore -v -z --stdin [35ms]
+2023-07-30 11:38:56.784 [info] > git fetch [806ms]
+2023-07-30 11:38:58.193 [info] > git check-ignore -v -z --stdin [60ms]
+2023-07-30 11:38:58.196 [info] > git config --get commit.template [52ms]
+2023-07-30 11:38:58.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-07-30 11:38:58.228 [info] > git status -z -uall [2ms]
+2023-07-30 11:38:58.350 [info] > git show --textconv :src/components/Navigation.astro [19ms]
+2023-07-30 11:38:58.351 [info] > git ls-files --stage -- /home/developercode/Document/project/developercode/src/components/Navigation.astro [10ms]
+2023-07-30 11:38:58.394 [info] > git cat-file -s 121b088eef7d9ea9e74a440c8238780d9bcb41c0 [32ms]

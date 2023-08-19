@@ -1,0 +1,13 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.6.1101941928.
+Python Extension Version: 2023.12.0.
+Platform: linux (x64).
+Workspace folder /home/developercode, Home = /home/developercode
+05:01:47.919 [info] User belongs to experiment group 'jupyterEnhancedDataViewer'
+05:01:47.919 [info] User belongs to experiment group 'jupyterTest'
+05:01:48.321 [info] Start refreshing Interpreter Kernel Picker (1692421308321)
+05:01:48.346 [info] Using Pylance
+05:01:49.311 [warn] Failed to get activated env vars for /bin/python in 708ms
+05:01:49.360 [info] Process Execution: /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+05:01:49.430 [info] Process Execution: /bin/python -m pip list
+05:01:51.075 [info] End refreshing Interpreter Kernel Picker (1692421308321)

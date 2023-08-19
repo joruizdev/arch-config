@@ -1,0 +1,20 @@
+2023-06-29 14:16:47.053 [info] Deleted from disk ms-toolsai.jupyter-keymap /home/developercode/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-06-29 14:16:47.089 [info] Deleted from disk esbenp.prettier-vscode /home/developercode/.vscode/extensions/esbenp.prettier-vscode-9.13.0
+2023-06-29 14:16:47.581 [info] Deleted from disk dbaeumer.vscode-eslint /home/developercode/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0
+2023-06-29 14:16:47.585 [info] Deleted from disk ms-toolsai.jupyter /home/developercode/.vscode/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-06-29 14:16:47.586 [info] Deleted from disk wallabyjs.console-ninja /home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.154
+2023-06-29 14:16:47.702 [info] Deleted from disk github.copilot /home/developercode/.vscode/extensions/github.copilot-1.89.156
+2023-06-29 14:16:47.713 [info] Deleted from disk ms-python.vscode-pylance /home/developercode/.vscode/extensions/ms-python.vscode-pylance-2023.6.20
+2023-06-29 14:16:47.714 [info] Deleted from disk ms-python.python /home/developercode/.vscode/extensions/ms-python.python-2023.8.0
+2023-06-29 14:16:52.585 [info] Getting Manifest... wallabyjs.console-ninja
+2023-06-29 14:16:52.720 [info] Installing extension: wallabyjs.console-ninja
+2023-06-29 14:16:57.585 [warning] Extension signature verification failed with error 'UnknownError': wallabyjs.console-ninja
+2023-06-29 14:16:58.302 [info] Extracted extension to /home/developercode/.vscode/extensions/.46d6c479-00ff-4825-a4e6-2e15a4a505b7: wallabyjs.console-ninja
+2023-06-29 14:16:58.310 [info] Renamed to /home/developercode/.vscode/extensions/wallabyjs.console-ninja-0.0.170
+2023-06-29 14:16:58.312 [info] Extracting extension completed. wallabyjs.console-ninja
+2023-06-29 14:16:58.326 [info] Extension installed successfully: wallabyjs.console-ninja
+2023-06-29 14:16:58.329 [info] Marked extension as uninstalled wallabyjs.console-ninja-0.0.168
+2023-06-29 19:34:47.701 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com): Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+2023-06-29 19:35:55.741 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com): Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)

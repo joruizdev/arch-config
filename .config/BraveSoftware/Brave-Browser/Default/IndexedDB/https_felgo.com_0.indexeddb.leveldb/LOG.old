@@ -1,0 +1,6 @@
+2023/05/01-17:15:31.580 8d2 Creating DB /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_felgo.com_0.indexeddb.leveldb since it was missing.
+2023/05/01-17:15:31.589 8d2 Reusing MANIFEST /home/developercode/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_felgo.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/01-17:26:35.899 8d3 Level-0 table #5: started
+2023/05/01-17:26:35.905 8d3 Level-0 table #5: 110262 bytes OK
+2023/05/01-17:26:35.911 8d3 Delete type=0 #3
+2023/05/01-17:26:35.911 8d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/06/29-18:08:22.805 e3d Reusing MANIFEST /home/developercode/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/06/29-18:08:22.806 e3d Recovering log #4
+2023/06/29-18:08:22.806 e3d Reusing old log /home/developercode/.config/discord/Local Storage/leveldb/000004.log 
+2023/06/29-18:10:24.119 e25 Level-0 table #8: started
+2023/06/29-18:10:24.137 e25 Level-0 table #8: 1712005 bytes OK
+2023/06/29-18:10:24.142 e25 Delete type=0 #4
